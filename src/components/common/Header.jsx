@@ -6,7 +6,7 @@ function AppHeader() {
       <div className="container-fluid">
         <div className="header">
           <div className="logo">
-            <i class="fa-solid fa-meteor"></i>
+            <i className="fa-solid fa-meteor"></i>
             <a href="http://www.google.com">Robin</a>
           </div>
           <Menu mode="horizontal" multiple="true" defaultSelectedKeys={["home"]}>
